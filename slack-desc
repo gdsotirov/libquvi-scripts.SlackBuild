@@ -1,0 +1,11 @@
+libquvi-scripts: libquvi-scripts (A collection of Lua scripts for libquvi)
+libquvi-scripts:
+libquvi-scripts: This package includes selection of Lua scripts that libquvi
+libquiv-scripts: calls upon to parse the properties for a media URL.
+libquvi-scripts:
+libquvi-scripts:
+libquvi-scripts:
+libquvi-scripts:
+libquvi-scripts:
+libquvi-scripts:
+libquvi-scripts: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
